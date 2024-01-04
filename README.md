@@ -5,7 +5,6 @@ Retrieve stats from warlords matchmaking with a javascript console script.
 - Retrieve all player stats from warlords website.
 - Data can be displayed, sorted and downloaded in a JSON format.
 - Request specific players data to be displayed only.
-- Drag'n'drop save files onto the map to load them
 
 ## Commands
 - firstTimeRun(amount)
