@@ -18,6 +18,12 @@ Retrieve stats without resetting stats where amount equals requested amount of m
 - getThesePlayers(names)
 Filter statistics by requesting a list of names in an array. Premade list of names exists as getThesePlayers(request).
 
+## How to use
+- Browse to https://mbwarlords.com/warlords/mercenaries.php?q=clan_wars
+- Log in to the website with your account.
+- Press CTRL + Shift + I
+- Press Console
+- Paste all the code in the .js file provided.
 
 # System Requirements
 Google Chrome
