@@ -29,7 +29,7 @@ Filter statistics by requesting a list of names in an array. Premade list of nam
 Google Chrome
 
 ## Author
-Copyright (C) 2023-2024 Sebastian Ritschewald
+Copyright (C) 2023-2024 Sebastian (bugstile)
 
 ## Screenshots
 <img src="https://i.imgur.com/KuIhnga.png" width="50%" height="50%" />
